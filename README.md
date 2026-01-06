@@ -2,6 +2,8 @@
 
 A web-based HD wallet that supports both **Solana** and **Ethereum** blockchain. Generate a single seed phrase and derive multiple wallet addresses for both chains.
 
+<img src="./src/assets/preview.png">
+
 ## npm libraries used:
 
 - **bip39** - Mnemonic generation
